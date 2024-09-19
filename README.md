@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vanayaakira
+- 👋 Hi, I’m @Vanayaakira AKA K.I.R.A
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning css-html
 - 💞️ I’m looking to collaborate on not
