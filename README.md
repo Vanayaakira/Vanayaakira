@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @Vanayaakira AKA K.I.R.A or Akira 
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning Java script
-- 💞️ I’m not looking to collaborate
-- 📫 How to reach me? nothing yet (can't afford a domain) >.<
-- 😄 Pronouns: they/them
-- ⚡ Fun fact: im a 16yo student who can't speak my local language
+# Hi, I’m @Vanayaakira AKA K.I.R.A or Akira
+## A student with an personal branding issue (Literally)
 
-<!---
-Vanayaakira/Vanayaakira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Vanayaakira&theme=radical" alt="Vanayaakira" />
+  </a>
+</p>
+
+- 🔭 I’m currently study on **SMKN 2 Pengasih**
+- 🌱 I’m currently learning **HTML, Css, Javascript**
+- 💬 Pronouns? **im a wallmart bag**
+- ⚡ Fun fact **im a 16yo student who can't speak my local language.**
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Vanayaakira&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?userVanayaakira&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanayaakira&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
