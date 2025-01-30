@@ -10,7 +10,7 @@
 - 🔭 I’m currently study on **SMKN 2 Pengasih**
 - 🌱 I’m currently learning **HTML, Css, Javascript**
 - 💬 Pronouns? **im a wallmart bag**
-- ⚡ Fun fact **im a 16yo student who can't speak my local language.**
+- ⚡ Fun fact **im a 16yo student who can't speak my local language fluently.**
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Vanayaakira&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
